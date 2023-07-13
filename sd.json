@@ -1,122 +1,101 @@
 {
 	"name": "sd",
 	"id": 1,
-	"depth": 0,
 	"children": [{
 		"name": "xt",
-		"depth": 1,
 		"id": 2,
 		"children": [
 
 			{
 				"name": "jc",
 				"id": 3,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "wx",
 				"id": 4,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "ny",
 				"id": 5,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "qg",
 				"id": 6,
-				"depth": 2,
 				"size": 1
 			}
 		]},
 		{
 		"name": "cscy",
 		"id": 7,
-		"depth": 1,
 		"children": [{
 				"name": "wl",
 				"id": 8,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "sz",
 				"id": 9,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "hj",
 				"id": 10,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "gt",
 				"id": 11,
-				"depth": 2,
 				"size": 1
 			}
 		]},
 		{
 		"name": "zhsz",
 		"id": 12,
-		"depth": 1,
 		"children": [{
 				"name": "dy",
 				"id": 13,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "zy",
 				"id": 14,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "ty",
 				"id": 15,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "my",
 				"id": 16,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "ly",
 				"id": 17,
-				"depth": 2,
 				"size": 1
 			}
 		]},
 		{
 		"name": "cjcy",
 		"id": 18,
-		"depth": 1,
 		"children": [{
 				"name": "xx",
 				"id": 19,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "jt",
 				"id": 20,
-				"depth": 2,
 				"size": 1
 			},
 			{
 				"name": "sh",
 				"id": 21,
-				"depth": 2,
 				"size": 1
 			}
 		]}
